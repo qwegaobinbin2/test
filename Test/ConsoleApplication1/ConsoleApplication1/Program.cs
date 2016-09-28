@@ -18,6 +18,10 @@ namespace ConsoleApplication1
             str = "中国人";
 
             str = "最新推送";
+
+            str = "最新美";
+
+
         }
     }
 }
