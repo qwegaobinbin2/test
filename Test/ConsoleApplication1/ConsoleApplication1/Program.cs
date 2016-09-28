@@ -23,7 +23,7 @@ namespace ConsoleApplication1
 
 
 
-            str = "2333kkkkkkkkkkkkkggkkpppk";
+            str = "2333kkkkkk2222222222222222222kkkkkkkggkkpppk";
 
         }
     }
