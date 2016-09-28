@@ -23,7 +23,7 @@ namespace ConsoleApplication1
 
 
 
-
+            str = "2333";
 
         }
     }
