@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-            string str = "166666666666666666666d";
+            string str = "166666666cccccccccccccc666666666666d";
             str = "dddd";
             str = "1";
 
