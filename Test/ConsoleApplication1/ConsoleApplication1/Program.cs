@@ -23,9 +23,8 @@ namespace ConsoleApplication1
 
 
 
-            str = "11112333kkkkkk2222222222222222222kkkkkkkggkkpppk";
+        
 
-            int a = 1;
 
         }
     }
