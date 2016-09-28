@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
 
             string str = "d";
+            str = "dddd";
         }
     }
 }
