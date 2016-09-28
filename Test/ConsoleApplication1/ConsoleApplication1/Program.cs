@@ -14,6 +14,8 @@ namespace ConsoleApplication1
             string str = "d";
             str = "dddd";
             str = "1";
+
+            str = "中国人";
         }
     }
 }
